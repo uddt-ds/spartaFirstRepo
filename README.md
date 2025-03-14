@@ -54,4 +54,4 @@ Calculate Project는 초보 개발자가 만든 첫번째 계산기입니다. �
 
 1. project 파일을 클론하면 세부 코드를 볼 수 있습니다.
    ```bash
-   git clone https://github.com/uddt-ds/spartaProject.git
+   git clone https://github.com/uddt-ds/spartaFirstRepo.git
