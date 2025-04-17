@@ -4,10 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/uddt-ds/spartaProject/blob/main/projectImage.png" alt="projectImage.png" width="500">
-</p>
-
 ## 📋 프로젝트 개요
 
 Calculate Project는 초보 개발자가 만든 첫번째 계산기입니다. 이 프로젝트를 통해 class의 기능을 분리하여 단일책임 원칙을 학습하고, 인스턴스를 생성하여 객체 지향 프로그래밍을 이해합니다.
